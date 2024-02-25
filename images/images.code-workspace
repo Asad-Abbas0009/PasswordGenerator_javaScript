@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../Dot-Batch-GitHub/Projects/15 - Password Generator/images"
+		},
+		{
+			"name": "Calculator",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5503
+	}
+}
